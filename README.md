@@ -1,10 +1,11 @@
-# This is a small on-line game called Black Jack
+# This is a small online game called Black Jack
 
-I follow scrimba to build this small website.
+I follow scrimba to build this small website, and mainly use Javascript.
 
 - [Scrimba](https://scrimba.com/allcourses)
 
-And use Netify to deploy it. You can check the website as below:
+And use Netlify to deploy it. You can check the website as below:
 
+https://delicate-lebkuchen-0d4e7e.netlify.app/
 
 Happy Coding!
